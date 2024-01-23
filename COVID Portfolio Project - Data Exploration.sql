@@ -1,5 +1,7 @@
 /*
 Covid 19 Data Exploration 
+Source of data: https://ourworldindata.org/covid-deaths
+Data from: January 28,2020 to April30,2021
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
