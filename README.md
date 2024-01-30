@@ -5,3 +5,7 @@ In this comprehensive SQL analysis of global COVID-19 data, several key aspects 
 ##Project Summary: Data Ceaning Portfolio Project (NashVilleHousing) Using SQL
 
 This SQL data cleaning project for Nashville housing involved standardizing date formats, removing time from dates, populating missing property addresses through self-joins, handling null values with ISNULL, breaking down addresses into individual components, extracting city and state from OwnerAddress, normalizing "Sold as Vacant" entries, and removing duplicates. The meticulous process aimed to ensure data uniformity, completeness, and accuracy, ultimately enhancing the dataset for more reliable analysis and reporting.
+
+##Project Summary: Excel Project (Bike Sales)
+
+Embarking on a BIKE DATASET project, I meticulously refined the data for robust analysis. I safeguarded the original dataset by creating a duplicate sheet, removed duplicates, and standardized marital status and gender through 'Find and Replace.' I enhanced readability by formatting income to currency and introduced age brackets for demographic insights. Leveraging pivot tables, I delved into data analysis and synthesized compelling visualizations. This process ensures the integrity of the BIKE DATASET while providing stakeholders with actionable insights through clear and organized data representation.
